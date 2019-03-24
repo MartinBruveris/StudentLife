@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<controls>
+   <key  action ="left">A</key>
+   <key  action ="right">D</key>  
+   <key  action ="continue">spaceBar</key> 
+   <key  action ="playAgain">G</key> 
+</controls>
